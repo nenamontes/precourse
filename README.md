@@ -1,2 +1,2 @@
 # precourse
-este es un modulo prueba del modulo 2 de henry
+este es un modulo prueba creando repo en la nube y llevarlo a c, para prepcurse de henry
